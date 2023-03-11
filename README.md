@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+<img style="height:50px;width:50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 
 <!--
 **luan004/luan004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
