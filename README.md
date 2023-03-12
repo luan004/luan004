@@ -6,8 +6,8 @@
 
 ## Formação
 
-    <div style="background-color: grey;border-radius: 15px;height:60px">
-        <img style="height:50px;width:50px;float:left" src="https://luan004.github.io/images/ifpr.png" />
-        Instituto Federal do Paraná - Campus Paranavaí<br>
-        Técnico em Informática | 2020 - 2023
-    </div>
+<div style="background-color: grey;border-radius: 15px;height:60px">
+    <img style="height:50px;width:50px;float:left" src="https://luan004.github.io/images/ifpr.png" />
+    Instituto Federal do Paraná - Campus Paranavaí<br>
+    Técnico em Informática | 2020 - 2023
+</div>
