@@ -1,7 +1,6 @@
 ### Olá! 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=6&theme=gotham"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=6&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=6&theme=react&hide=dart"/>
 
 
 
