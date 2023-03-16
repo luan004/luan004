@@ -1,8 +1,11 @@
 ### Olá! 👋
 
-<img href="http://github.com/luan004" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=6&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=6&theme=gotham"/>
+<img src="https://github-readme-stats.vercel.app/api?username=luan004&show_icons=true&theme=radical"/>
 
-## Competências
+
+
+## Competências 
 
 <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img style="height:30px;width:30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 
