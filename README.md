@@ -20,7 +20,7 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <td>Foo</td>
+        <td>Foo</td><td>Foo2</td>
     </tr>
 </table>
 
