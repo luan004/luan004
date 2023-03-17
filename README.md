@@ -1,10 +1,4 @@
-### Olá! 👋
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=6&theme=react&hide=dart&custom_title=Linguagens%20Mais%20Usadas"/>
-
-
-
-
 
 ## Competências 
 
@@ -12,7 +6,7 @@
 
 ## Formação
 
-<table style="border-style:solid;border-color:red;border-radius:10px">
+<table>
     <tr>
         <td>
             <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>
@@ -22,4 +16,20 @@
             <b>Técnico em Informática</b> | 2020 - 2023
         </td>
     </tr>
+</table>
+
+## Cursos
+
+<table>
+<thead>
+  <tr>
+    <td rowspan="2">
+        <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/cisco2.png"/>
+      </td>
+    <td>cisco1</td>
+  </tr>
+  <tr>
+    <td>cisco2</td>
+  </tr>
+</thead>
 </table>
