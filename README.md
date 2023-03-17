@@ -12,4 +12,5 @@
 
 ## Formação
 
-<img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>Instituto Federal do Paraná - Campus Paranavaí<br>Técnico em Informática</br> | 2020 - 2023
+<img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>
+Instituto Federal do Paraná - Campus Paranavaí<br>Técnico em Informática</br> | 2020 - 2023
