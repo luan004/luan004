@@ -20,7 +20,13 @@ This is a regular paragraph.
 
 <table>
     <tr>
-        <td>Foo</td><td>Foo2</td>
+        <td>
+            <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>
+        </td>
+        <td>
+            Instituto Federal do Paraná - Campus Paranavaí<br>
+            <b>Técnico em Informática</b> | 2020 - 2023
+        </td>
     </tr>
 </table>
 
