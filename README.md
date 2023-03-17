@@ -21,15 +21,24 @@
 ## Cursos
 
 <table>
-<thead>
-  <tr>
-    <td rowspan="2">
-        <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/cisco2.png"/>
-      </td>
-    <td>cisco1</td>
-  </tr>
-  <tr>
-    <td>cisco2</td>
-  </tr>
-</thead>
+    <thead>
+        <tr>
+            <th colspan="2">Cisco Networking Academy</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2">
+                <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/cisco2.png"/>
+            </td>
+            <td>
+                NDG Linux Unhatched<br>2022
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Networking Essentials<br>2023
+            </td>
+        </tr>
+    </tbody>
 </table>
