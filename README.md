@@ -25,9 +25,7 @@ This is a regular paragraph.
         </td>
         <td>
             Instituto Federal do Paraná - Campus Paranavaí<br>
-            <div class="font-size:40px"><b>Técnico em Informática</b></div> | 2020 - 2023
+            <b>Técnico em Informática</b> | 2020 - 2023
         </td>
     </tr>
 </table>
-
-This is another regular paragraph.
