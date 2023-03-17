@@ -7,15 +7,23 @@
 ## Formação
 
 <table>
-    <tr>
-        <td>
-            <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>
-        </td>
-        <td>
-            Instituto Federal do Paraná - Campus Paranavaí<br>
-            <b>Técnico em Informática</b> | 2020 - 2023
-        </td>
-    </tr>
+    <thead>
+        <tr>
+            <th colspan="2">
+                Instituto Federal do Paraná - Campus Paranavaí
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>
+            </td>
+            <td>
+                <b>Técnico em Informática</b><br>2020 - 2023
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 ## Cursos
@@ -32,12 +40,12 @@
                 <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/cisco2.png"/>
             </td>
             <td>
-                NDG Linux Unhatched<br>2022
+                <b>NDG Linux Unhatched</b><br>2022 - Concluído
             </td>
         </tr>
         <tr>
             <td>
-                Networking Essentials<br>2023
+                <b>Networking Essentials</b><br>2023 - Em Andamento
             </td>
         </tr>
     </tbody>
