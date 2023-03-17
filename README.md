@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=4&theme=transparent&custom_title=Linguagens%20Mais%20Usadas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=4&theme=react&custom_title=Linguagens%20Mais%20Usadas"/>
 
 ## Competências 
 
