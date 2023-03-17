@@ -10,7 +10,7 @@
     <thead>
         <tr>
             <th colspan="2">
-                Instituto Federal do Paraná - Campus Paranavaí
+                Instituto Federal do Paraná
             </th>
         </tr>
     </thead>
