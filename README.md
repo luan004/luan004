@@ -1,4 +1,4 @@
-# 🥸 Oi!
+# 🥸 Oi! meu nome é Luan!
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=4&theme=react&custom_title=Linguagens%20Mais%20Usadas"/>
 
@@ -28,7 +28,7 @@
     </tbody>
 </table>
 
-## Cursos
+## 📚 Cursos
 
 <table>
     <thead>
