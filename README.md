@@ -5,7 +5,7 @@
 
 ## 🧠 Habilidades
 
-<img src="https://skillicons.dev/icons?i=js,java,html,css,linux">
+[![Skills](https://skillicons.dev/icons?i=js,java,html,css,linux)]
 
 ## 🎓 Formação
 
