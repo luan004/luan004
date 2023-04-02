@@ -1,7 +1,7 @@
 # 🥸 Oi! meu nome é Luan!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&custom_title=Langs Stats&langs_count=4&layout=compact&theme=dark&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585" height="140rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&langs_count=4&layout=compact&theme=dark&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585" height="140rem"/>
   <img src="https://github-readme-stats.vercel.app/api?username=luan004&show_icons=true&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585&hide=prs,issues,contribs&count_private=true&card_width=1px" height="140rem"/>
 </div>
 
