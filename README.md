@@ -1,8 +1,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=4&theme=react&custom_title=Linguagens%20Mais%20Usadas"/>
 
-# Competências 
+# Habilidades 
 
-<img src="https://skillicons.dev/icons?i=js,java,html,css">
+<img src="https://skillicons.dev/icons?i=js,java,html,css,linux">
 
 ## Formação
 
