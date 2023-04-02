@@ -1,6 +1,6 @@
 # 🥸 Oi! meu nome é Luan!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=4&theme=dark&custom_title=Linguagens%20Mais%20Usadas&bg_color=07090d&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&layout=compact&langs_count=4&theme=dark&custom_title=Linguagens%20Mais%20Usadas&bg_color=07090d&border_color=11161f"/>
 
 ## 🧠 Habilidades
 
