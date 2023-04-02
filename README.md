@@ -4,8 +4,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luan004&show_icons=true&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585&hide=prs,issues,contribs&count_private=true&card_width=1px&line_height=30)
 
 <section align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&langs_count=4&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585" height="170rem"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=luan004&show_icons=true&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585&hide=prs,issues,contribs&count_private=true&card_width=1px&line_height=30" height="170rem"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&langs_count=4&layout=compact&theme=dark&custom_title=Linguagens%20Mais%20Usadas&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585" height="120rem"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=luan004&show_icons=true&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585&hide=prs,issues,contribs&count_private=true&card_width=1px&line_height=30" height="120rem"/>
 </section>
 
 ## 🧠 Habilidades
