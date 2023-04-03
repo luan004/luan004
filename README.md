@@ -1,4 +1,4 @@
-# 🥸 Oi! meu nome é Luan!
+# 👨🏻‍💻 Oi!
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan004&langs_count=4&layout=compact&theme=dark&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585" height="140rem"/>
@@ -7,7 +7,7 @@
 
 ## 🧠 Habilidades
 
-![Skills](https://skillicons.dev/icons?i=js,java,html,css,linux)
+![Skills](https://skillicons.dev/icons?i=js,java,html,css,firebase,linux)
 
 ## 🎓 Formação
 
