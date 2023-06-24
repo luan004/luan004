@@ -7,7 +7,7 @@
 
 ## 🧠 Habilidades
 
-![Skills](https://skillicons.dev/icons?i=js,java,html,css,firebase,linux)
+![Skills](https://skillicons.dev/icons?i=java,php,mysql,js,html,css,linux,jquery)
 
 ## 🎓 Formação
 
