@@ -11,6 +11,27 @@
 
 ## 🎓 Formação
 
+<div>
+  <table>
+    <thead>
+        <tr>
+            <th colspan="2">
+                Instituto Federal do Paraná
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>
+            </td>
+            <td>
+                <b>Engenharia de Software</b><br>2024 - 2027 | Em Andamento
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <table>
     <thead>
         <tr>
@@ -25,11 +46,12 @@
                 <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>
             </td>
             <td>
-                <b>Técnico em Informática</b><br>2020 - 2023
+                <b>Técnico em Informática</b><br>2020 - 2023 | Concluído
             </td>
         </tr>
     </tbody>
 </table>
+</div>
 
 ## 📚 Cursos
 
