@@ -11,68 +11,79 @@
 
 ## 🎓 Formação
 
-<div>
-  <table>
-    <thead>
-        <tr>
-            <th colspan="2">
-                Instituto Federal do Paraná
-            </th>
-        </tr>
-    </thead>
+<table>
     <tbody>
         <tr>
             <td>
-                <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>
+                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/ifpr.png"/>
             </td>
-            <td>
-                <b>Engenharia de Software</b><br>2024 - 2027 | Em Andamento
+            <td>              
+                <b>Engenharia de Software</b>
+                <br>
+                <span style="font-size: 12px;">
+                    Instituto Federal do Paraná
+                    <br>
+                    2024 - 2027 | Em Andamento
+                </span>
             </td>
         </tr>
     </tbody>
 </table>
 
 <table>
-    <thead>
-        <tr>
-            <th colspan="2">
-                Instituto Federal do Paraná
-            </th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
             <td>
-                <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/ifpr.png"/>
+                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/ifpr.png"/>
             </td>
-            <td>
-                <b>Técnico em Informática</b><br>2020 - 2023 | Concluído
+            <td>              
+                <b>Técnico em Informática</b>
+                <br>
+                <span style="font-size: 12px;">
+                    Instituto Federal do Paraná
+                    <br>
+                    2020 - 2023 | Concluído
+                </span>
             </td>
         </tr>
     </tbody>
 </table>
-</div>
 
 ## 📚 Cursos
 
 <table>
-    <thead>
-        <tr>
-            <th colspan="2">Cisco Networking Academy</th>
-        </tr>
-    </thead>
     <tbody>
         <tr>
-            <td rowspan="2">
-                <img style="height:50px;width:50px;border-radius:10px" src="https://luan004.github.io/images/cisco2.png"/>
-            </td>
             <td>
-                <b>NDG Linux Unhatched</b><br>2022 - Concluído
+                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/cisco.png"/>
+            </td>
+            <td>              
+                <b>NDG Linux Unhatched</b>
+                <br>
+                <span style="font-size: 12px;">
+                    Cisco Networking Academy
+                    <br>
+                    2022 | Concluído
+                </span>
             </td>
         </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
         <tr>
             <td>
-                <b>Networking Essentials</b><br>2023 - Em Andamento
+                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/cisco.png"/>
+            </td>
+            <td>              
+                <b>Networking Essentials</b>
+                <br>
+                <span style="font-size: 12px;">
+                    Cisco Networking Academy
+                    <br>
+                    2023 | Concluído
+                </span>
             </td>
         </tr>
     </tbody>
