@@ -15,7 +15,7 @@
     <tbody>
         <tr>
             <td>
-                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/ifpr.png"/>
+                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/ifpr-rounded.png"/>
             </td>
             <td>              
                 <b>Engenharia de Software</b>
@@ -34,7 +34,7 @@
     <tbody>
         <tr>
             <td>
-                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/ifpr.png"/>
+                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/ifpr-rounded.png"/>
             </td>
             <td>              
                 <b>Técnico em Informática</b>
@@ -55,7 +55,7 @@
     <tbody>
         <tr>
             <td>
-                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/cisco.png"/>
+                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/cisco-rounded.png"/>
             </td>
             <td>              
                 <b>NDG Linux Unhatched</b>
@@ -74,7 +74,7 @@
     <tbody>
         <tr>
             <td>
-                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/cisco.png"/>
+                <img style="height:60px;width:60px" src="https://luan004.github.io/images/logos/cisco-rounded.png"/>
             </td>
             <td>              
                 <b>Networking Essentials</b>
