@@ -5,7 +5,7 @@
  <!--  <img src="https://github-readme-stats.vercel.app/api?username=luan004&show_icons=true&bg_color=07090d&border_color=11161f&title_color=ffffff&text_color=858585&hide=issues,contribs&count_private=true&card_width=1px" height="140rem"/> -->
 </div>
 
-## 🧠 Habilidades
+## 🧠 Stacks
 
 ![Skills](https://skillicons.dev/icons?i=java,php,mysql,js,html,css,linux,jquery)
 
